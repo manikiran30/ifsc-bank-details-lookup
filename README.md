@@ -18,3 +18,4 @@ An Android application that fetches and displays detailed bank information using
 ## API Used
 
 This app uses the following public API to fetch bank details:
+
