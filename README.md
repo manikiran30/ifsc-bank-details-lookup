@@ -18,4 +18,7 @@ An Android application that fetches and displays detailed bank information using
 ## API Used
 
 This app uses the following public API to fetch bank details:
-
+RazorPay API
+Endpoint: GET https://ifsc.razorpay.com/{IFSC_CODE}
+Response: Bank name, branch, city, state, contact, UPI enabled status, etc.
+Example usage documented in GeeksforGeeks
